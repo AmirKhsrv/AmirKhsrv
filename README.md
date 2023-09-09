@@ -5,5 +5,5 @@ I am Amirmohammad Khosravi Esfezar, currently a senior student pursuing a degree
 </p>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,go,java,py,c,cpp,nodejs,git,css,html,tensorflow,keras,pandas,numpy,pytorch,mysql,bash,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,go,java,py,c,cpp,nodejs,git,css,html,tensorflow,pytorch,mysql,bash,vscode&perline=8)](https://skillicons.dev)
 
